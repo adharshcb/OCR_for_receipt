@@ -16,11 +16,11 @@ To use the project, run the main.py script. This will process all the images in 
 ### Dependencies
 The project uses the following dependencies:
 
-Python 3.10
-OpenCV
-NumPy
-PyTesseract
-imutils
+* Python 3.10
+* OpenCV
+* NumPy
+* PyTesseract
+* imutils
 
 ### Contributing
 Contributions to this project are welcome. I am just a noob in cv2. If you can make make any improvement and contribute code, please fork the repository and create a pull request.
